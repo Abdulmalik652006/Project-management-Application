@@ -10,6 +10,7 @@ WORK FORGE is a full-stack Project Management Web Application designed to help t
 🎨 Responsive UI with Tailwind CSS
 ⚡ Fast frontend build using Vite
 🧩 Modular backend structure
+
 🛠️ Tech Stack
 Frontend
 React (JSX)
@@ -22,7 +23,8 @@ Express.js (assumed from structure)
 Tools & Config
 PostCSS
 Tailwind Config
-npm
+
+
 📁 Project Structure
 Project-Management-WORK-FORGE-
 │
@@ -36,6 +38,7 @@ Project-Management-WORK-FORGE-
 ├── tailwind.config.js     # Tailwind CSS configuration
 ├── postcss.config.js      # PostCSS configuration
 └── Project Work Forge user manual.docx  # User manual
+
 ⚙️ Installation & Setup
 Prerequisites
 Node.js (v16 or higher recommended)
@@ -58,6 +61,7 @@ Run the backend (if applicable)
 cd backend
 npm install
 npm start
+
 📖 Documentation
 Refer to Project Work Forge user manual.docx for detailed usage instructions.
 📌 Future Enhancements
