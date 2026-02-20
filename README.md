@@ -60,18 +60,6 @@ npm
 
 Steps
 
-Clone the repositoryProject-Management-WORK-FORGE-
-│
-├── backend/                  # Backend server code
-├── src/                      # Frontend source code (React components)
-├── node_modules/             # Project dependencies
-├── index.html                # Main HTML entry point
-├── package.json              # Dependencies & scripts
-├── package-lock.json         # Dependency lock file
-├── vite.config.js             # Vite configuration
-├── tailwind.config.js         # Tailwind CSS configuration
-├── postcss.config.js          # PostCSS configuration
-└── Project Work Forge user manual.docx
 
 git clone https://github.com/Jeevan4125/Project-Management-WORK-FORGE-.git
 
