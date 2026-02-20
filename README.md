@@ -49,7 +49,6 @@ Tailwind Configuration
 
 Vite Configuration
 
-📁 Project Structure
 Project-Management-WORK-FORGE-
 │
 ├── backend/                  # Backend server code
@@ -62,6 +61,7 @@ Project-Management-WORK-FORGE-
 ├── tailwind.config.js         # Tailwind CSS configuration
 ├── postcss.config.js          # PostCSS configuration
 └── Project Work Forge user manual.docx
+
 ⚙️ Installation & Setup
 Prerequisites
 
