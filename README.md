@@ -49,7 +49,18 @@ Tailwind Configuration
 
 Vite Configuration
 
-Project-Management-WORK-FORGE-
+
+
+⚙️ Installation & Setup
+Prerequisites
+
+Node.js v16 or higher
+
+npm
+
+Steps
+
+Clone the repositoryProject-Management-WORK-FORGE-
 │
 ├── backend/                  # Backend server code
 ├── src/                      # Frontend source code (React components)
@@ -61,17 +72,6 @@ Project-Management-WORK-FORGE-
 ├── tailwind.config.js         # Tailwind CSS configuration
 ├── postcss.config.js          # PostCSS configuration
 └── Project Work Forge user manual.docx
-
-⚙️ Installation & Setup
-Prerequisites
-
-Node.js v16 or higher
-
-npm
-
-Steps
-
-Clone the repository
 
 git clone https://github.com/Jeevan4125/Project-Management-WORK-FORGE-.git
 
